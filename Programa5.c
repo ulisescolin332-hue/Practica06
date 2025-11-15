@@ -1,3 +1,6 @@
+/* Francisco Colín Ulises 
+Práctica 6, Programa 5*/
+
 #include <stdio.h>
 
 int main()
